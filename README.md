@@ -25,7 +25,7 @@ This can be done through npm install in your Node.JS Terminal.
 3. Each command selected will prompt you to answer questions so the command can be complete (Except View Employees/Roles/Departments which need no command). 
 4. You will then be prompted with either a table if you are viewing, or a line in the terminal stating that the command has been completed. 
 
-You can view a [demonstration of the Employee Tracker here](https://drive.google.com/file/d/1FQ4fcONanfvKSaGU_cJCaZXhT-T7-HCF/view).
+You can view a [demonstration of the Employee Tracker here](https://drive.google.com/file/d/12EozrxeflcmJJhLaulbROzk_pW9lgZQp/view).
 
 ## Credits
 
