@@ -29,7 +29,7 @@ const initQuestion = {
         'Update Employee Role',
         'Update Employee Manager',
         'View Employee by Manager',
-        'View Employee by Department',
+        // 'View Employee by Department',
         'Delete Employee',
         'Delete Role',
         'Delete Department',
@@ -516,9 +516,9 @@ function init() {
             else if (data.todo == 'View Employee by Manager') {
                 viewEmployeeByManager();
             }
-            else if (data.todo == 'View Employee by Department') {
-                viewEmployeeByDepartment();
-            }
+            // else if (data.todo == 'View Employee by Department') {
+            //     viewEmployeeByDepartment();
+            // }
             else if (data.todo == 'Delete Department') {
                 deleteDepartment();
             }
