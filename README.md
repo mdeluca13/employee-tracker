@@ -20,12 +20,17 @@ This can be done through npm install in your Node.JS Terminal.
 
 ## Usage
 
-1. When node index.js is run through the terminal, this will initialize the program.
-2. You will be prompted with a list of commands you can run including View Employees/Roles/Departments, Add Employees/Roles/Departments, Delete Employees/Roles/Departments, Update Employee Role/Manager, View Employee by Manager. 
-3. Each command selected will prompt you to answer questions so the command can be complete (Except View Employees/Roles/Departments which need no command). 
-4. You will then be prompted with either a table if you are viewing, or a line in the terminal stating that the command has been completed. 
+1. Run mysql -u root -p in Terminal for schema.sql
+2. Run source schema.sql to initialize the Database and Tables
+3. Run mysql -u root -p in Terminal for seeds.sql
+4. Run USE tracker_db to select the Database we are using
+5. Run source seeds.sql to add base information to the Tables
+6. When node index.js is run through the index.JS Terminal, this will initialize the program.
+7. You will be prompted with a list of commands you can run including View Employees/Roles/Departments, Add Employees/Roles/Departments, Delete Employees/Roles/Departments, Update Employee Role/Manager, View Employee by Manager. 
+8. Each command selected will prompt you to answer questions so the command can be complete (Except View Employees/Roles/Departments which need no command). 
+9. You will then be prompted with either a table if you are viewing, or a line in the terminal stating that the command has been completed. 
 
-You can view a [demonstration of the Employee Tracker here](https://drive.google.com/file/d/12EozrxeflcmJJhLaulbROzk_pW9lgZQp/view).
+You can view a [demonstration of the Employee Tracker here](https://drive.google.com/file/d/1iHiKGkpcy5r21TdVPFh7HSjISwfde3Af/view).
 
 ## Credits
 
