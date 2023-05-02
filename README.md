@@ -2,7 +2,7 @@
 
 ## Description
 
-Logo Maker is a Node.JS and MYSQL program that allows you to update a MYSQL Database and Tables through the Node.JS command lines. Employers need a way to track and manage employees, roles and departments, so by having this program, you can easily update your database with the most up to date information and retrieve that information based on specific criteria. 
+Employee Tracker is a Node.JS and MYSQL program that allows you to update a MYSQL Database and Tables through the Node.JS command lines. Employers need a way to track and manage employees, roles and departments, so by having this program, you can easily update your database with the most up to date information and retrieve that information based on specific criteria. 
 
 I was able to demonstrate what I have learned throughout the Carleton University Full Stack Coding Bootcamp as well as use my researching skills to determine how MYSQL works to complete the tasks I needed it to, as well as troubleshoot bugs that came up.
 
